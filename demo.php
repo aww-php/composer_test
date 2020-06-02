@@ -2,10 +2,10 @@
 
 require_once './vendor/autoload.php';
 
-use ComposerTest\BoatBird\Tool;
+use Aww\BoatBird\Tool\Fly;
 
 
-$toolClass = new Tool();
+$toolClass = new Fly();
 
 echo $toolClass->index();
 
