@@ -1,0 +1,17 @@
+{
+    "name": "aww/boatbird",
+    "description": "This is boat bird",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aww",
+            "email": "1355842282@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"ComposerTest\\": "src/"}
+    }
+}
